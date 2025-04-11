@@ -110,6 +110,4 @@ Developed by **Soumyajit Banerjee**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
----
 
-Let me know if you want me to include badges (like Python version, license, etc.), or convert this into a downloadable file!
