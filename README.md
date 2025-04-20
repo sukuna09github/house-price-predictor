@@ -2,7 +2,6 @@
 
 ---
 
-```markdown
 # 🏠 House Price Predictor - Streamlit App
 
 A simple yet powerful web application built using **Streamlit** and **scikit-learn** that predicts California housing prices based on features such as `total_rooms`, `housing_median_age`, and more using **Linear Regression** and **XGBoost**.
@@ -108,6 +107,5 @@ Developed by **Soumyajit Banerjee**
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 
